@@ -85,7 +85,7 @@
         <include name="nbproject/genfiles.properties" />
         <include name="nbproject/project.properties" />
         <include name="build.xml" />
-        <include name="license.txt" />
+        <include name="LICENSE.txt" />
         <include name="releaseNotes.txt" />
       </fileset>
     </zip>
